@@ -1,0 +1,11 @@
+{
+    "name": "cloudflare-worker-proxy",
+    "version": "1.0.0",
+    "description": "A Cloudflare Worker to hide Google API",
+    "main": "worker.js",
+    "scripts": {
+      "deploy": "npx wrangler deploy"
+    },
+    "dependencies": {}
+  }
+  

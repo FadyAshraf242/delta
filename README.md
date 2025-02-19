@@ -1,0 +1,3 @@
+"# aigeminifady" 
+"# deltauni" 
+"# delta" 

@@ -1,0 +1,8 @@
+name = "aigeminifady"
+main = "worker.js"
+account_id = "beb9d127c9f951768fa2e099f3e84e79"
+workers_dev = true
+compatibility_date = "2025-02-19"
+
+[build]
+command = "npm install"
